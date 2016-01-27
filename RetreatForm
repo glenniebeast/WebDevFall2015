@@ -1,0 +1,150 @@
+<!doctype html>
+<html>
+<!--Fictional Retreat form to be used as work to show form building knowledge-->
+<!--Requirements-->
+<!--
+Text fields
+
+A text area
+
+A Password field
+
+Radio Buttons
+
+Check boxes
+
+Selection lists
+
+An IMAGE Submit button
+
+A Reset button
+
+Make sure to make Access Keys and Labels for all Check boxes and Radio buttons. 
+-->
+<head>
+<title>Relaxation Retreat Intial Form</title>
+<link rel="stylesheet" type="text/css" href="public_html/base_css/BaseCSS.css" >
+</head>
+<body>
+<form method = "post" action = "#">
+<table>
+<tr>
+<td>Username:<br>
+<input type ="Username" name="username"/> </td>
+</tr>
+<tr>
+<td>Password:<br>
+<input type ="password" name = "Password" /></td>
+</tr>
+<tr class = "Spacer"><td></td></tr>
+<tr class = "Spacer"><td></td></tr>
+<tr class = "Spacer"><td></td></tr>
+
+<tr>
+<td>Preferred Name or Nickname?:</td>
+<td><input type = "text" name = "Nickname" maxlength = "15"></td>
+</tr>
+<tr class = "Spacer"><td></td></tr>
+<tr class = "Spacer"><td></td></tr>
+<tr class = "Spacer"><td></td></tr>
+<tr>
+<td>Choose Sex: <br>(So we may better schedule classes <br>and services)</td>
+<td>
+<select name = "Sex">
+<option value = "Male">Male</option>
+<option value = "Female">Female</option>
+<option value = "N/A">Prefer not to Answer</option>
+</select>
+ </td>
+</tr>
+<tr class = "Spacer"><td></td></tr>
+
+<tr class="Spacer"><td></td></tr>
+<tr>
+<td>
+How many days will you be with us?
+<select name = "number of days">
+
+<option value = "1">1</option>
+<option value = "2">2</option>
+<option value = "3">3</option>
+<option value = "4">4</option>
+<option value = "5">5</option>
+<option value = "6">6</option>
+<option value = "7">7</option>
+<option value = "8">8</option>
+</select>
+</td>
+   </tr>
+   <tr class="Spacer"><td></td></tr>
+   <tr>
+   <td>Type of Room Requested?</td>
+   <td>  
+             <input type = "Radio" name = "Room Type" value ="King Suite" id = "type1">
+	     <label for="type1" accesskey="M"><u>M</u>aster Suite</label>
+	 <br>
+			 <input type = "Radio" name = "Room Type" value ="Junior Suite" id = "type2">
+		<label for="type2" accesskey="J"><u>J</u>unior Suite</label>
+		<br>
+			 <input type = "Radio" name = "Room Type" value ="2 Queen W Kitchen" id = "type3">
+		<label for="type3" accesskey="Q"><u>Q</u>ueen bed With Kitchenette </label>
+		 <br>
+          	 <input type = "Radio" name = "Room Type" value ="King with Whirlpool" id = "type4">
+			 <label for ="type4" accesskey="K"><u>K</u>ing Bed with Whirlpool </label>
+	</td>
+    </tr>
+	 <tr class="Spacer"><td></td></tr>
+	  <tr class="Spacer"><td></td></tr>
+	   <tr class="Spacer"><td></td></tr>
+	    <tr class="Spacer"><td></td></tr>
+   <tr>
+      <td>Courses Requested</td>
+      <td>
+             
+                 <input type="checkbox" name="Courses" 
+                 value="Yoga" id="Service1">
+			<label for ="Service1" accesskey="P"><u>P</u>eaceful
+                 Yoga. Beginners Course.</label>
+		 <br>
+             
+                 <input type="checkbox" name="Courses" 
+                 value="Cooking" id="Service2">
+			<label for ="Service2" accesskey="T"><u>T</u>antalizing	 
+                 Yoga. Intermediate to Expert Level.</label>		 
+        <br>
+             
+                 <input type="checkbox" name="Courses" 
+                 value="Cooking" id="Service3">
+			<label for ="Service3" accesskey="C"><u>C</u>ooking
+                 with Nature's Bounty.</label>         
+        <br>
+             
+                 <input type="checkbox" name="Courses" 
+                 value="Hiking" id="Service4">
+			<label for ="Service4" accesskey="V"><u>V</u>isit
+                 Natures True Beauty.</label>
+		 <br>
+             
+                 <input type="checkbox" name="Courses" 
+                 value="Meditation" id="Service5">
+			<label for ="Service5" accesskey="R"><u>R</u>estful
+                 Meditation.</label>		 
+      </td>
+    </tr>
+	 <tr class="Spacer"><td></td></tr>
+	 <tr class="Spacer"><td></td></tr>
+	 <tr class="Spacer"><td></td></tr>
+	 <tr class="Spacer"><td></td></tr>
+	<tr>
+	<td>Any Special Request You May Have</td>
+	<td><input style="Height:150px" size="45" type="Text" name="Special%20Request"/>
+	 </td>
+	  </tr>
+	<tr>
+ <td><img src="../images/ResetButton.jpg" width="100" height="40" alt=""/></td>
+ <td><img src="../images/submitButton.jpg" width="100" height="40" alt=""/></td>
+     </tr>
+</table>
+</form>
+</body>
+</html>
