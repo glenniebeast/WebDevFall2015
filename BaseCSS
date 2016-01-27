@@ -1,0 +1,66 @@
+body {
+	background-color:#D4CEA9;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+	text-align: Center;
+}
+
+h2{
+	Color: #E42023;
+	Margin: auto;
+	text-align:Center;
+}
+
+ul{
+
+    list-style-type: none;
+}
+
+.center{
+	Margin:auto;
+	text-align:Center;
+}
+
+.Vacation {
+	Margin: auto;
+	width: 45%;
+}
+
+.TableCenter {
+	Margin: auto;
+	width: 45%;
+	background-color: #FFFA8A;
+	Border:"1"; 
+Cellpadding:"5";
+}
+
+td {
+	text-align:Center;
+	border: 1px solid #000;
+}
+
+th {
+	text-align:Center;
+	border: 1px solid #000;
+}
+
+
+
+.TableLeft {
+    float:left;
+    width:45%;
+background-color:#BFF0FF;
+Border:"1"; 
+Cellpadding:"5";
+}
+
+.TableRight   {
+    width:45%;
+    float:right;
+	background-color: #F79A98;
+	Border:"1"; 
+Cellpadding:"5";
+}
