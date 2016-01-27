@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Vacation
+</title>
+<link rel="stylesheet" type="text/css" href="../base_css/BaseCSS.css">
+</head>
+<body>
+<h2>Vacations</h2>
+<p></p>
+<table class="Vacation">
+<tr>
+	<th colspan = "3">  Favorite All Time Vacations </th>
+</tr>
+<tr>
+    <th>Location</th>
+    <th>When Did We Go</th>
+    <th>Most Memorable Thing That Happened</th>
+</tr>
+<tr>
+<td>Tampa, Florida</td>
+<td>Dec 2012</td>
+<td>Spent a whole day with my parents and younger brother playing <br> 
+board games in our hotel room when it rained</td>
+</tr>
+<tr>
+<td>Denver, Colorado</td>
+<td>Sept 2014</td>
+<td>My Brother and I picked up a hitchhiker who claimed to have visted Mars.<br>
+ (We only drove him for an hour.)</td>
+</tr>
+<tr>
+<td>Mexico City,Mexico</td>
+<td>Dec 2014</td>
+<td>Ended up in Tula Mexico sleeping off a hangover and then exploring the <br>
+old village center of Tula</td>
+</tr>
+<tr>
+<td>Greensboro, NC</td>
+<td>Aug 2015</td>
+<td>Re-Connected with an old friend I hadn't seen since high school and ended up<br>
+ crashing my car.<br></td>
+</tr>
+</table>
+</body>
+</html>
