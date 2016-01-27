@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link rel="stylesheet" type="text/css" href="../base_css/BaseCSS.css" />
+</head>
+
+<body class="center">
+<h1>Who am I?</h1>
+<h2>Glenn Nava</h2> 
+<p>430 Admiral Ave Apt 1 Portage, MI 49002
+<br> (269)599-8468 <br>
+GNava011@yahoo.com</p>
+<h3>Personal Life</h3>
+<p>I grew up in West Michigan orginally moving from Mission, Texas in 2001. My parents Orginally from Mexico meant <br>
+that I did not learn how to speak English until I moved to Michigan. I am the second youngest out of 4 children. My older <br>
+brother is 13 years older than me and with my sister is there is a 9 years difference, which meant that I related more with <br>
+my younger brother who is only 1 year younger. Kiyoshi and I have been know to have gotten into trouble,which most of the time <br>
+involved having lit something on fire or having to cover up a car accident from my parents.At the moment Kiyoshi is living in Colorado <br>
+until he returns from school in May, so until then, nothing will be lit on fire. One thing that we share is our love for cars, my brother <br>
+has always been really good at negotiates when it comes to buying cars. Together we purchased a BMW 530i. The orginal deal was that he got <br>
+to drive it on the weekends, but work sometimes did not let that happen.   
+</p>
+<img src="../images/BMW.jpg" alt="Picture of a BMW" width="522" height="522">
+<h3>Profile </h3>
+<ul>
+<li>More than 3 years successful experience in customer service and support with recognized strengths in account maintenance,<br> 
+ problem-solving and trouble-shooting, planning/implementing proactive procedures and systems to forecast potential issues. </li>
+<li>Excellent working knowledge using both windows and Mac systems; Microsoft Excel, WordPerfect, Microsoft Word.</li> 
+<li>Ability to train, motivate, and supervise customer service employees.</li> 
+<li>A team player, acknowledged as a &#8220;Rising star.&#8221; In Q2 of 2013 </li>
+<li>Fluent in English and Spanish in Verbal, Reading and Writing.  </li>
+</ul>
+<!--For making Double quotation marks-->
+<!--&#8220; &#8221;-->
+
+<!--Single QuoationMarks-->
+<!--&#8216; &#8217;-->
+
+<h3>Synopsis of Achievements </h3>
+<ul>
+<li>Assisted in training new hires and employees on verbal warnings to bring down average call time and create a <br>
+&#8220;one call resolution&#8221; environment.</li> 
+<li>Created customer complaint process to allow for tracking daily complaints that could be reviewed and resolved by hospital staff. </li>
+</ul>
+
+<h3>Work Experience</h3>
+
+<p><a href="http://www.kelloggs.com/en_US/home.html">Kellogg Company </a> <br>10/2014- 07/2015</p>
+
+<ul>
+
+<li>Answered inquiries from employees and managers (via phone, email, voicemail, and fax) from a predefined script in all aspects of <br>
+ HR including but not limited to: Talent Optimizaton, Staffing, Compensation, Benefits and Employee Relations </li>
+<li>Provides applicable information to retirees, withdrawn employees, and potential new hires</li>  
+<li>Completes inquiries in the &#8220;one and done&#8221; standard</li> 
+<li>Teaches employees and managers how to utilize and optimize self service</li> 
+<li>Coordinates Issue Escalation and Case Management Resolution</li> 
+<li>Escalates inquiries to appropriate channels</li> 
+<li>Documents interactions per standards</li> 
+<li>Enters and completes transactions in the applicable systems</li> 
+<li>Monitors HR Portal inbox and provides feedback on responses and content updates needed</li> 
+<li>Participates on shared service projects as assigned</li> 
+<li>Assisted employees in Spanish for Kellogg Company Latin American employees</li>
+
+</ul>
+
+
+<p><a href="http://www.accretivehealth.com/">Accretive Health </a> <br>11/2012 - 08/2014</p>
+
+<ul>
+<li>Worked with 18 customer service representatives for two hospital systems in two states.</li> 
+<li>Assisted with support of hospital teams and their corresponding support teams.</li> 
+<li>Quickly and effectively solved customer challenges.</li>  
+<li>Maintain quality control/satisfaction records, constantly seeking innovative solutions.</li> 
+<li>Experience with balance resolution for initial monetary collections phases.</li> 
+<li>Actively working with patients to maintain a positive customer relationship.</li>
+</ul>
+
+
+   <p> Advance Security <br>10/2010 - 11/2012 </p> 
+   <ul>
+   <li>Worked as Security Guard for several site throughout West Michigan</li>
+   <li>Helped train new guard hires for 2 sites I was assigned to</li>
+<li>Combined shift reports of guards of the day to better assist clients to review important changes</li>
+<li>Checked in all guest to sites and assigned badges with certain permissions as directed</li>
+<li>Helped all patrons and employees, while providing an environment they felt safe in</li>  
+
+</ul> 
+   
+   
+ <h3>Education </h3>
+<ul>
+<li>Portage Central High School <br>2010</li>
+<li>Kalamazoo Valley Community College <br>2015 - &#8216; Present &#8217;</li>
+</ul> 
+
+</body>
+</html>
