@@ -1,0 +1,143 @@
+<!doctype html>
+<html>
+<!--table page to be used as work to show table building knowledge-->
+
+<!--Requirements-->
+<!--minimum 3 tables with 4 row and 4 columns -->
+<head>
+<meta charset="utf-8">
+<title>Glenn's Weekly Workout</title>
+<link rel="stylesheet" type="text/css" href="../base_css/BaseCSS.css">
+</head>
+<h1>Weekly Workout plan</h1>
+<table class ="TableLeft">
+<tr>
+<th colspan = "4">  Chest Workout Monday & Thursday </th>
+</tr>
+
+<tr>
+<th>Workout</th>
+<th>Starting Weight</th>
+<th># of Reps</th>
+<th># of Sets</th>
+
+</tr>
+
+<tr>
+<td>Bench Press</td>
+<td>120 lbs</td>
+<td>10 reps</td>
+<td>3 Sets</td>
+</tr>
+
+<tr>
+<td>Butterfly Swings</td>
+<td>115 lbs</td>
+<td>15 reps</td>
+<td>5 Sets</td>
+</tr>
+
+<tr>
+<td>Cable Dual Pull</td>
+<td>40 lbs each side</td>
+<td>10 reps</td>
+<td>4 Sets</td>
+</tr>
+
+<tr>
+<td>Dumbbell Press</td>
+<td>55 lbs each side</td>
+<td>15 reps</td>
+<td>4 sets</td>
+</tr>
+
+</table>
+
+<table class = "TableRight">
+
+<tr>
+<th colspan = "4">  Arms Workout Tuesday & Friday </th>
+</tr>
+
+<tr>
+<th>Workout</th>
+<th>Starting Weight</th>
+<th># of Reps</th>
+<th># of Sets</th>
+
+</tr>
+
+<tr>
+<td>Dumbbell Curls</td>
+<td>45 lbs each side</td>
+<td>15 reps</td>
+<td>3 Sets</td>
+</tr>
+
+<tr>
+<td>Arm Extension(Machine)</td>
+<td>95 lbs</td>
+<td>15 reps</td>
+<td>4 Sets</td>
+</tr>
+
+<tr>
+<td>Preacher Curls(Machine)</td>
+<td>120 lbs</td>
+<td>10 reps</td>
+<td>4 Sets</td>
+</tr>
+
+<tr>
+<td>Tricep Pushdown(Cables)</td>
+<td>60 lbs</td>
+<td>15 reps</td>
+<td>4 sets</td>
+</tr>
+
+</table>
+
+<table Class="TableCenter" > 
+
+<tr>
+<th colspan = "4">  Back Workout Wednesday & Saturday </th>
+</tr>
+
+<tr>
+<th>Workout</th>
+<th>Starting Weight</th>
+<th># of Reps</th>
+<th># of Sets</th>
+
+</tr>
+
+<tr>
+<td>Wide Grip Pull Down</td>
+<td>110 lbs</td>
+<td>10 reps</td>
+<td>4 Sets</td>
+</tr>
+
+<tr>
+<td>Low Arm Row</td>
+<td>80 lbs</td>
+<td>15 reps</td>
+<td>3 Sets</td>
+</tr>
+
+<tr>
+<td>Reverse Machine Fly</td>
+<td>75 lbs</td>
+<td>10 reps</td>
+<td>4 Sets</td>
+</tr>
+
+<tr>
+<td>Lower Back Extension(Machine)</td>
+<td>145 lbs</td>
+<td>15 reps</td>
+<td>4 sets</td>
+</tr>
+
+</table>
+</html>
