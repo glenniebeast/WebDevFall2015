@@ -1,0 +1,12 @@
+body {
+	background-color: #D4CEA9;
+}
+
+table {
+	margin:auto;
+}
+
+h1 {
+	text-align:center;
+	Color: #94A440;
+}
